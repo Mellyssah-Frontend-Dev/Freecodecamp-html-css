@@ -1,0 +1,37 @@
+body {
+  background-color: rosybrown;
+  font-family: Arial,sans-serif;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+a {
+  text-decoration: none;
+}
+.business-card {
+  width: 300px;
+  background-color: burlywood;
+  padding: 20px;
+  margin: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.social-media {
+  width: 300px;
+  background-color: burlywood;
+  padding: 20px;
+  margin: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -120px;
+  
+}
+.profile-image {
+  max-width: 100%;
+}
