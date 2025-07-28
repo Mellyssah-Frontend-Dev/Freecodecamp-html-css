@@ -1,0 +1,60 @@
+body{
+  background-color:grey;
+  padding:auto;
+  margin:autopx;
+}
+h1{
+  margin:0px;
+  text-align:center;
+  padding:4px;
+  color:blue;
+  background-color:black;
+  height:90%;
+  width:50%;
+}
+p{
+  color:purple;
+  padding:2px;
+  margin:2px;
+  font-style:italic;
+  font-size:30px;
+  background-color:rgb(12, 11, 11);
+  height:30%;
+  width:50%;
+}
+.todo-list{
+  background-color:orange;
+  height:70%;
+  width:70%;
+  }
+.sub-item{
+ color:green;
+ background-color:brown;
+}
+.sub-item-link{
+font-style:italic;
+font-size:20px;
+padding:0px;
+margin:20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link{
+  text-decoration: none;
+  color:white;
+}
+a:visited{
+  color: yellow;
+}
+a:hover{
+  color: black;
+}
+a:focus{
+  outline: none;
+}
+a:active{
+  color: blue;
+}
