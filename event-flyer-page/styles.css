@@ -1,0 +1,21 @@
+body{
+  padding-top:50px;
+  padding-bottom:50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100vw;
+  min-height: calc(100vh - 100px);
+  background: url("https://images.stockcake.com/public/6/4/e/64edf57d-9524-4423-9dd8-89b13cf6e39f/moonlit-night-sky-stockcake.jpg")no-repeat center/cover;
+}
+hr,section{
+  width: 100%;
+}
+img{
+  width: 60%;
+  height: 80%;
+}
+a:link{ 
+  color: red;
+}
